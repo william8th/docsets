@@ -1,0 +1,5 @@
+org.apache.kafka.streams
+org.apache.kafka.streams.errors
+org.apache.kafka.streams.kstream
+org.apache.kafka.streams.processor
+org.apache.kafka.streams.state
